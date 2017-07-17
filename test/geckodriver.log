@@ -1,0 +1,44 @@
+1500274358873	geckodriver	INFO	Listening on 127.0.0.1:8375
+1500274360892	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.sjv2GVQhYXAo
+1500274360895	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500274360926	geckodriver::marionette	INFO	Connecting to Marionette on localhost:8383
+1500274361689	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1500274365804	Marionette	INFO	Listening on port 8383
+1500274366190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.sstatic.net/Js/stub.en.js?v=2238651b5f59, line 1: ReferenceError: $ is not defined
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js?75eacd8, line 393: unreachable code after return statement
+JavaScript warning: http://pos.baidu.com/ccfm?rdid=2394820&rsuv=0x1&dc=3&di=u2394820&dri=0&dis=0&dai=1&ps=219x895&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1500274549005&ti=selenium%20chrome%20driver%20issues%3A%20WebDriverException%3A%20unknown%20e&ari=2&dbv=0&drs=1&pcs=1280x891&pss=1280x891&cfv=26&cpl=1&chi=1&cce=true&cec=UTF-8&tlm=1500274549&rw=891&ltu=http%3A%2F%2Fbbs.csdn.net%2Ftopics%2F392038134&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3Doa5zA-Uu-tlJlbwLQQpuTTY4qmXfkmSGucAUvJ5teUDJEqc2jdzmOgkabJQ0wKl5%26wd%3D%26eqid%3Dee8199bd0000729100000003596c5f50&ecd=1&uc=1280x984&pis=-1x-1&sr=1280x1024&tcn=1500274549&qn=dfa263dfa5ffd9e0&tt=1500274548951.57.611.613&_r=1_0&ich=s&jid=1&aaa_flag=1, line 120: unreachable code after return statement
+JavaScript warning: http://pos.baidu.com/ccfm?rdid=2394820&rsuv=0x1&dc=3&di=u2394820&dri=0&dis=0&dai=1&ps=219x895&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1500274549005&ti=selenium%20chrome%20driver%20issues%3A%20WebDriverException%3A%20unknown%20e&ari=2&dbv=0&drs=1&pcs=1280x891&pss=1280x891&cfv=26&cpl=1&chi=1&cce=true&cec=UTF-8&tlm=1500274549&rw=891&ltu=http%3A%2F%2Fbbs.csdn.net%2Ftopics%2F392038134&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3Doa5zA-Uu-tlJlbwLQQpuTTY4qmXfkmSGucAUvJ5teUDJEqc2jdzmOgkabJQ0wKl5%26wd%3D%26eqid%3Dee8199bd0000729100000003596c5f50&ecd=1&uc=1280x984&pis=-1x-1&sr=1280x1024&tcn=1500274549&qn=dfa263dfa5ffd9e0&tt=1500274548951.57.611.613&_r=1_0&ich=s&jid=1&aaa_flag=1, line 120: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js?75eacd8, line 393: unreachable code after return statement
+JavaScript error: https://stackoverflow.com/questions/30359621/webdriverexception-message-unknown-error-devtools-returned-unknown-typeservi, line 39: TypeError: StackExchange.ready is not a function
+JavaScript error: https://cdn.sstatic.net/Js/stub.en.js?v=2238651b5f59, line 1: ReferenceError: $ is not defined
+JavaScript error: https://stackoverflow.com/questions/30359621/webdriverexception-message-unknown-error-devtools-returned-unknown-typeservi, line 71: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/30359621/webdriverexception-message-unknown-error-devtools-returned-unknown-typeservi, line 82: ReferenceError: $ is not defined
+JavaScript error: https://stackoverflow.com/questions/30359621/webdriverexception-message-unknown-error-devtools-returned-unknown-typeservi, line 285: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/30359621/webdriverexception-message-unknown-error-devtools-returned-unknown-typeservi, line 320: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/30359621/webdriverexception-message-unknown-error-devtools-returned-unknown-typeservi, line 681: TypeError: StackExchange.ifUsing is not a function
+JavaScript error: https://stackoverflow.com/questions/30359621/webdriverexception-message-unknown-error-devtools-returned-unknown-typeservi, line 692: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/30359621/webdriverexception-message-unknown-error-devtools-returned-unknown-typeservi, line 760: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/30359621/webdriverexception-message-unknown-error-devtools-returned-unknown-typeservi, line 801: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/30359621/webdriverexception-message-unknown-error-devtools-returned-unknown-typeservi, line 1068: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/30359621/webdriverexception-message-unknown-error-devtools-returned-unknown-typeservi, line 1297: ReferenceError: $ is not defined
+JavaScript error: http://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: SecurityError: Permission denied to access property "href" on cross-origin object
+JavaScript error: http://static.blog.csdn.net/scripts/csdn_blog_detail.min.js, line 2: TypeError: t is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: , line 0: SecurityError: Permission denied to access property "href" on cross-origin object
+JavaScript error: , line 0: SecurityError: Permission denied to access property "href" on cross-origin object
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: , line 0: SecurityError: Permission denied to access property "href" on cross-origin object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
